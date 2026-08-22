@@ -31,5 +31,4 @@ jobs:
         with:
           name: Quran-Recitation-Coach-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-Important: This assumes your ZIP contains a standard Android/Gradle project with a gradlew file.
-After pasting it: Commit changes → Actions → select “Build Android APK” → Run workflow.
+I
